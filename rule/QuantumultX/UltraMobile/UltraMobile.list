@@ -1,21 +1,17 @@
 # NAME: UltraMobile
 # AUTHOR: cwwcn
 # REPO: https://github.com/cwwcn/ios_rule_script
-# UPDATED: 2026-07-29 01:56:52
-# HOST: 4
-# HOST-SUFFIX: 10
-# TOTAL: 14
+# UPDATED: 2026-07-29 02:03:14
+# HOST: 2
+# HOST-SUFFIX: 8
+# TOTAL: 10
 HOST,d20xtzwzcl0ceb.cloudfront.net,UltraMobile
 HOST,d3uc069fcn7uxw.cloudfront.net,UltraMobile
-HOST,www.google.com,UltraMobile
-HOST,www.gstatic.com,UltraMobile
 HOST-SUFFIX,braintree-api.com,UltraMobile
 HOST-SUFFIX,braintreegateway.com,UltraMobile
 HOST-SUFFIX,braintreepayments.com,UltraMobile
 HOST-SUFFIX,ipqscdn.com,UltraMobile
 HOST-SUFFIX,launchdarkly.com,UltraMobile
 HOST-SUFFIX,online-metrix.net,UltraMobile
-HOST-SUFFIX,paypal.com,UltraMobile
-HOST-SUFFIX,paypalobjects.com,UltraMobile
 HOST-SUFFIX,ultramobile.com,UltraMobile
 HOST-SUFFIX,vantivcnp.com,UltraMobile
