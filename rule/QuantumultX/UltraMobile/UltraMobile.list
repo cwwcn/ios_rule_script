@@ -1,10 +1,13 @@
 # NAME: UltraMobile
 # AUTHOR: cwwcn
 # REPO: https://github.com/cwwcn/ios_rule_script
-# UPDATED: 2026-07-29 02:03:14
+# UPDATED: 2026-07-30 16:02:09
 # HOST: 2
-# HOST-SUFFIX: 8
-# TOTAL: 10
+# HOST-KEYWORD: 1
+# HOST-SUFFIX: 20
+# IP-CIDR: 3
+# TOTAL: 26
+# Ultra Mobile service endpoints
 HOST,d20xtzwzcl0ceb.cloudfront.net,UltraMobile
 HOST,d3uc069fcn7uxw.cloudfront.net,UltraMobile
 HOST-SUFFIX,braintree-api.com,UltraMobile
@@ -15,3 +18,25 @@ HOST-SUFFIX,launchdarkly.com,UltraMobile
 HOST-SUFFIX,online-metrix.net,UltraMobile
 HOST-SUFFIX,ultramobile.com,UltraMobile
 HOST-SUFFIX,vantivcnp.com,UltraMobile
+
+# Wi-Fi Calling: regional detection
+HOST-SUFFIX,gspe1-ssl.ls.apple.com,UltraMobile
+
+# Wi-Fi Calling: T-Mobile and Ultra Mobile service endpoints
+HOST-SUFFIX,crl.t-mobile.com,UltraMobile
+HOST-SUFFIX,depdg.epc.mnc260.mcc310.pub.3gppnetwork.org,UltraMobile
+HOST-SUFFIX,eas3.msg.t-mobile.com,UltraMobile
+HOST-SUFFIX,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org,UltraMobile
+HOST-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org,UltraMobile
+HOST-SUFFIX,mascns.t-mobile.com,UltraMobile
+HOST-SUFFIX,ns.sipgeo.t-mobile.com,UltraMobile
+HOST-SUFFIX,optimizely.com,UltraMobile
+HOST-SUFFIX,redirect.ultra.me,UltraMobile
+HOST-SUFFIX,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org,UltraMobile
+HOST-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org,UltraMobile
+
+# Wi-Fi Calling: carrier traffic and IP ranges
+HOST-KEYWORD,t-mobile,UltraMobile
+IP-CIDR,206.29.177.36/32,UltraMobile
+IP-CIDR,208.54.0.0/16,UltraMobile
+IP-CIDR,66.94.0.0/19,UltraMobile
