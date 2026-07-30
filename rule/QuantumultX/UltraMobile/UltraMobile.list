@@ -1,15 +1,35 @@
 # NAME: UltraMobile
 # AUTHOR: cwwcn
 # REPO: https://github.com/cwwcn/ios_rule_script
-# UPDATED: 2026-07-30 16:02:09
-# HOST: 2
+# UPDATED: 2026-07-30 17:08:05
+# HOST: 22
 # HOST-KEYWORD: 1
 # HOST-SUFFIX: 20
 # IP-CIDR: 3
-# TOTAL: 26
+# TOTAL: 46
 # Ultra Mobile service endpoints
+HOST,api2.amplitude.com,UltraMobile
+HOST,bat.bing.com,UltraMobile
+HOST,campaign.fbot.me,UltraMobile
+HOST,cdn.amplitude.com,UltraMobile
+HOST,cdn.cookielaw.org,UltraMobile
+HOST,connect.facebook.net,UltraMobile
+HOST,d.impactradius-event.com,UltraMobile
 HOST,d20xtzwzcl0ceb.cloudfront.net,UltraMobile
 HOST,d3uc069fcn7uxw.cloudfront.net,UltraMobile
+HOST,djnf6e5yyirys.cloudfront.net,UltraMobile
+HOST,geolocation.onetrust.com,UltraMobile
+HOST,o970783.ingest.us.sentry.io,UltraMobile
+HOST,p.typekit.net,UltraMobile
+HOST,prod.foxbot.versaconnects.io,UltraMobile
+HOST,sr-client-cfg.amplitude.com,UltraMobile
+HOST,static.cloudflareinsights.com,UltraMobile
+HOST,static.fbot.me,UltraMobile
+HOST,static.hotjar.com,UltraMobile
+HOST,t.contentsquare.net,UltraMobile
+HOST,tag.wknd.ai,UltraMobile
+HOST,tvspix.com,UltraMobile
+HOST,use.typekit.net,UltraMobile
 HOST-SUFFIX,braintree-api.com,UltraMobile
 HOST-SUFFIX,braintreegateway.com,UltraMobile
 HOST-SUFFIX,braintreepayments.com,UltraMobile
