@@ -1,0 +1,41 @@
+# NAME: mydiy
+# AUTHOR: cwwcn
+# REPO: https://github.com/cwwcn/ios_rule_script
+# SOURCE: https://raw.githubusercontent.com/cwwcn/Mononoke/refs/heads/master/Stash/Rules/mydiy.list
+# UPDATED: 2026-08-01 14:51:30
+# HOST-SUFFIX: 27
+# TOTAL: 27
+# 个人
+HOST-SUFFIX,chenzhuo.space,DIRECT
+# PT站
+HOST-SUFFIX,m-team.cc,DIRECT
+HOST-SUFFIX,ptchdbits.co,DIRECT
+HOST-SUFFIX,audiences.me,DIRECT
+HOST-SUFFIX,hddolby.com,DIRECT
+HOST-SUFFIX,rousi.zip,DIRECT
+HOST-SUFFIX,test.ptyes.org,DIRECT
+HOST-SUFFIX,pandapt.net,DIRECT
+HOST-SUFFIX,open.cd,DIRECT
+HOST-SUFFIX,pt.soulvoice.club,DIRECT
+HOST-SUFFIX,pt.novahd.top,DIRECT
+HOST-SUFFIX,ourbits.club,DIRECT
+HOST-SUFFIX,piggo.me,DIRECT
+HOST-SUFFIX,totheglory.im,DIRECT
+# 微软签到的
+HOST-SUFFIX,microsoft.com,DIRECT
+HOST-SUFFIX,live.com,DIRECT
+HOST-SUFFIX,bing.com,DIRECT
+HOST-SUFFIX,prod.rewardsplatform.microsoft.com,DIRECT
+HOST-SUFFIX,hotapi.nntool.cc,DIRECT
+HOST-SUFFIX,hot.baiwumm.com,DIRECT
+HOST-SUFFIX,cnxiaobai.com,DIRECT
+HOST-SUFFIX,disp-qryapi.3g.qq.com,DIRECT
+# garmin总是因为这个失败
+HOST-SUFFIX,amazonaws.com,DIRECT
+# 公益站
+HOST-SUFFIX,new.sharedchat.cc,DIRECT
+# linuxdo
+HOST-SUFFIX,invite.linuxdo.org,DIRECT
+# AI
+HOST-SUFFIX,ai-cove.com,DIRECT
+HOST-SUFFIX,tken.shop,DIRECT
