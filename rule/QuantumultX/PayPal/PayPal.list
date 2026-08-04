@@ -9,6 +9,7 @@
 # 临时加进去两个
 HOST-SUFFIX,adspower.net,PayPal
 HOST-SUFFIX,adspower.com,PayPal
+HOST-SUFFIX,myclientip.com,PayPal
 
 HOST-SUFFIX,i.paypal.com,PayPal
 HOST-SUFFIX,t.paypal.com,PayPal
