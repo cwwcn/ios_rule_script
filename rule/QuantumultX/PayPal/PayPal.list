@@ -6,6 +6,10 @@
 # HOST-SUFFIX: 246
 # USER-AGENT: 1
 # TOTAL: 248
+# 临时加进去两个
+HOST-SUFFIX,adspower.net,PayPal
+HOST-SUFFIX,adspower.com,PayPal
+
 HOST-SUFFIX,i.paypal.com,PayPal
 HOST-SUFFIX,t.paypal.com,PayPal
 HOST-SUFFIX,account-paypal.info,PayPal
