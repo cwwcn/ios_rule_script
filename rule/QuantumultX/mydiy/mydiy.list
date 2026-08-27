@@ -8,6 +8,8 @@
 
 # 个人
 HOST-SUFFIX,chenzhuo.space,DIRECT
+# 佳明中国区
+HOST-SUFFIX,garmin.cn,DIRECT
 # PT站
 HOST-SUFFIX,m-team.cc,DIRECT
 HOST-SUFFIX,ptchdbits.co,DIRECT
